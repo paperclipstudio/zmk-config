@@ -60,6 +60,5 @@
                         display-name = "Extra-1";
                         status = "reserved";
                 };
-               };
-        };
+						};
 };
